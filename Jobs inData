@@ -1,0 +1,17 @@
+**The dataset "Jobs in Data" includes the following fields:**
+
+work_year: The year in which the job posting was made.
+job_title: The title or designation of the job.
+job_category: The category or field to which the job belongs.
+salary_in_usd: The salary offered for the job in US dollars.
+employee_residence: The location of the employee's residence.
+experience_level: The level of experience required for the job.
+employment_type: The type of employment (e.g., full-time, part-time, contract).
+work_setting: The type of work setting (e.g., office, remote, hybrid).
+company_location: The location of the company offering the job.
+company_size: The size of the company based on the number of employees.
+This dataset provides valuable insights into the job market for data-related roles, including salary trends, experience requirements, employment types, work settings, and company sizes. It can be used to analyze job trends over time, geographical preferences of both employees and employers, and factors influencing salary variations in the data job market.
+
+
+
+
